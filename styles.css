@@ -1,0 +1,29 @@
+body{
+    background-color: lightgray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1,a{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+div{
+    width: 80%;
+    background-color: maroon;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100vh;
+    border-radius: 2%;
+}
+ul{
+    margin: 0 auto;
+    padding:0;
+    width: 75%;
+}
+li{
+    list-style: none;
+    padding-bottom: 20px;
+    border-bottom: 2px solid white;
+    margin: 70px 0;
+}
